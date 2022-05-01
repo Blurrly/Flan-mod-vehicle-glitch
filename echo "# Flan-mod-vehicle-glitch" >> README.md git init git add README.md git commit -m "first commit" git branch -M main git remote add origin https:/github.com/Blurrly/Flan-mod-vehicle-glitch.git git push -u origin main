@@ -1,0 +1,1 @@
+When I try to place down a plane or any vehicle the game crashes and open the launcher with this message "game crashed whilst ticking entity Error: java.lang.NullPointerException: Ticking entityExit Code: -1" i've look online but couldnt find any videos or links to fix my issue ive tried redownloading everything and nothing works.
